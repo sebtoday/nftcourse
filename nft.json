@@ -3,15 +3,4 @@
   "external_url": "https://en.wikipedia.org/wiki/Attack_on_Titan", 
   "image": "https://en.wikipedia.org/wiki/File:Shingeki_no_Kyojin_manga_volume_1.jpg", 
   "name": "Skiing",
-  "attributes": [
-    {
-      "volume": 1, 
-      "name": "Attack on Titans",
-      {
-      "display_type": "date", 
-      "trait_type": "publish date", 
-      "value": 1546360800
-      }
-    }
-   ]
 }
