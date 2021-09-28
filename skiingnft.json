@@ -1,0 +1,25 @@
+{
+  "description": "Skiing at different memorable locations",
+  "external_url": "https://pixels.com/featured/powder-to-the-people-sassan-filsoof.html?product=canvas-print",
+  "image": "https://render.fineartamerica.com/images/rendered/default/canvas-print/6.5/10/mirror/break/images-medium-5/powder-to-the-people-sassan-filsoof-canvas-print.jpg",
+  "name": "Switzerland",
+  "attributes": [
+    {
+      "trait_type": "place",
+      "value": "Switzerland"
+    },
+    {
+      "trait_type": "difficulty",
+      "value": "5"
+    },
+    {
+      "trait_type": "color",
+      "value": "black"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ]
+}
